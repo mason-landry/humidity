@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import requests
 import time
-import sys
 import Adafruit_DHT
 
 KEY = 'MY_KEY'
